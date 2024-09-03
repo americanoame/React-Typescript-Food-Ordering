@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/5752ef30-7aa8-45f8-853a-6b7ad7f9c124"><td>
+    <td><img src="https://github.com/user-attachments/assets/0be200bc-fc70-4e0d-a88f-7113d63b7c93"><td>
     <td><img src=""><td>
   </tr>
 
